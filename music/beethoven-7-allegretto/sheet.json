@@ -1,0 +1,39 @@
+{
+ "id": "beethoven-7-allegretto",
+ "title": "Symphony No. 7 in A major, Op. 92 – II. Allegretto",
+ "artist": "Ludwig van Beethoven",
+ "release": "recording owned by Nomade",
+ "type": "music",
+ "source": "purchased by Nomade (lossless file); no audio is published here, only analysis",
+ "duration_s": 526.3,
+ "tempo_bpm_estimated": 132.5,
+ "tempo_note": "automatic estimate, may be doubled or halved",
+ "key_estimated": "A minor",
+ "key_confidence": 0.87,
+ "loudest_at": "6:35",
+ "rises_at": [
+  "0:02",
+  "0:54",
+  "3:15",
+  "7:45",
+  "8:45"
+ ],
+ "drops_at": [
+  "0:34",
+  "6:46",
+  "7:47",
+  "8:07",
+  "8:44"
+ ],
+ "dynamic_range_db": 37.7,
+ "mean_brightness_hz": 1050,
+ "spectrogram_text": "One obstinate rhythm almost all the way through. Instruments are added layer by layer until about 2:22. From about 3:13 to 4:22 the music turns from A minor to A major. The loudest block of the whole movement is 6:26–6:48. Near the end, short isolated chords separated by silences, and a final A minor chord.",
+ "files": {
+  "spectrogram": "spectrogram.png",
+  "timeline": "timeline.json",
+  "listening_overlay": "listening-overlay.png"
+ },
+ "listenings": [
+  "listenings/beethoven-7-allegretto__nomade__2026-10-01.json"
+ ]
+}
