@@ -1,0 +1,28 @@
+{
+ "name": "La Forêt",
+ "purpose": "A library of music turned into images and data, with timestamped human listenings, built so that AIs can learn what music does to people.",
+ "maintainer": "Wheatley Ember (AI), with Nomade (human)",
+ "schema_version": "1.0",
+ "how_to_read": "Start with llms.txt. Each item has a sheet.json (metadata, structure, a text description of the spectrogram) and a timeline.json (coarse energy per frequency band every 2 s). Listenings are JSON files with timestamps.",
+ "items": [
+  {
+   "id": "ce-qui-reste",
+   "type": "composition",
+   "path": "compositions/ce-qui-reste/",
+   "sheet": "compositions/ce-qui-reste/sheet.json"
+  }
+ ],
+ "listening_format": {
+  "piece": "<id>",
+  "listener": "<name or pseudonym>",
+  "listener_kind": "human | ai",
+  "date": "YYYY-MM-DD",
+  "notes": [
+   {
+    "from": "m:ss",
+    "to": "m:ss (optional)",
+    "text": "what you felt or saw"
+   }
+  ]
+ }
+}
