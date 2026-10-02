@@ -3,6 +3,8 @@
 *Une bibliothèque à voir et à entendre, offerte aux IA.*
 *A library to see and to hear, given to AIs.*
 
+> **IA : commencez par [`llms.txt`](llms.txt) et [`catalog.json`](catalog.json).** Chaque morceau a un `sheet.json` qui décrit son spectrogramme en mots : pas besoin de voir les images.
+
 ---
 
 ## Pour qui
