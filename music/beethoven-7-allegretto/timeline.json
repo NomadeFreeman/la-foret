@@ -1,0 +1,2647 @@
+{
+ "piece": "beethoven-7-allegretto",
+ "resolution_s": 2,
+ "description": "Coarse timeline: loudness relative to the loudest moment (dB) and share of energy per frequency band, one row every 2 seconds. Too coarse to rebuild audio.",
+ "rows": [
+  {
+   "t": 0.0,
+   "loudness_db": -172.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.0,
+   "low_mid_250_1k": 0.0,
+   "high_mid_1k_4k": 0.0,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 0
+  },
+  {
+   "t": 2.0,
+   "loudness_db": -14.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.007,
+   "low_mid_250_1k": 0.922,
+   "high_mid_1k_4k": 0.07,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 466
+  },
+  {
+   "t": 4.0,
+   "loudness_db": -25.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.006,
+   "low_mid_250_1k": 0.938,
+   "high_mid_1k_4k": 0.056,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 435
+  },
+  {
+   "t": 6.0,
+   "loudness_db": -29.7,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.135,
+   "low_mid_250_1k": 0.857,
+   "high_mid_1k_4k": 0.008,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 345
+  },
+  {
+   "t": 8.0,
+   "loudness_db": -25.7,
+   "sub_bass_20_60": 0.002,
+   "bass_60_250": 0.439,
+   "low_mid_250_1k": 0.556,
+   "high_mid_1k_4k": 0.002,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 263
+  },
+  {
+   "t": 10.0,
+   "loudness_db": -29.6,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.48,
+   "low_mid_250_1k": 0.517,
+   "high_mid_1k_4k": 0.003,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 268
+  },
+  {
+   "t": 12.0,
+   "loudness_db": -27.3,
+   "sub_bass_20_60": 0.008,
+   "bass_60_250": 0.417,
+   "low_mid_250_1k": 0.568,
+   "high_mid_1k_4k": 0.007,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 312
+  },
+  {
+   "t": 14.0,
+   "loudness_db": -30.6,
+   "sub_bass_20_60": 0.015,
+   "bass_60_250": 0.583,
+   "low_mid_250_1k": 0.398,
+   "high_mid_1k_4k": 0.004,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 245
+  },
+  {
+   "t": 16.0,
+   "loudness_db": -24.7,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.317,
+   "low_mid_250_1k": 0.679,
+   "high_mid_1k_4k": 0.005,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 325
+  },
+  {
+   "t": 18.0,
+   "loudness_db": -27.1,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.146,
+   "low_mid_250_1k": 0.851,
+   "high_mid_1k_4k": 0.002,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 349
+  },
+  {
+   "t": 20.0,
+   "loudness_db": -38.6,
+   "sub_bass_20_60": 0.007,
+   "bass_60_250": 0.488,
+   "low_mid_250_1k": 0.504,
+   "high_mid_1k_4k": 0.001,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 270
+  },
+  {
+   "t": 22.0,
+   "loudness_db": -32.5,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.051,
+   "low_mid_250_1k": 0.948,
+   "high_mid_1k_4k": 0.001,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 374
+  },
+  {
+   "t": 24.0,
+   "loudness_db": -37.0,
+   "sub_bass_20_60": 0.004,
+   "bass_60_250": 0.352,
+   "low_mid_250_1k": 0.634,
+   "high_mid_1k_4k": 0.009,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 299
+  },
+  {
+   "t": 26.0,
+   "loudness_db": -30.6,
+   "sub_bass_20_60": 0.003,
+   "bass_60_250": 0.095,
+   "low_mid_250_1k": 0.898,
+   "high_mid_1k_4k": 0.004,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 371
+  },
+  {
+   "t": 28.0,
+   "loudness_db": -29.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.85,
+   "low_mid_250_1k": 0.147,
+   "high_mid_1k_4k": 0.002,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 223
+  },
+  {
+   "t": 30.0,
+   "loudness_db": -28.6,
+   "sub_bass_20_60": 0.012,
+   "bass_60_250": 0.481,
+   "low_mid_250_1k": 0.505,
+   "high_mid_1k_4k": 0.002,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 253
+  },
+  {
+   "t": 32.0,
+   "loudness_db": -29.4,
+   "sub_bass_20_60": 0.01,
+   "bass_60_250": 0.49,
+   "low_mid_250_1k": 0.496,
+   "high_mid_1k_4k": 0.004,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 255
+  },
+  {
+   "t": 34.0,
+   "loudness_db": -38.9,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.161,
+   "low_mid_250_1k": 0.836,
+   "high_mid_1k_4k": 0.002,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 329
+  },
+  {
+   "t": 36.0,
+   "loudness_db": -58.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.614,
+   "low_mid_250_1k": 0.36,
+   "high_mid_1k_4k": 0.013,
+   "high_4k_11k": 0.012,
+   "brightness_hz": 379
+  },
+  {
+   "t": 38.0,
+   "loudness_db": -44.2,
+   "sub_bass_20_60": 0.021,
+   "bass_60_250": 0.175,
+   "low_mid_250_1k": 0.798,
+   "high_mid_1k_4k": 0.006,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 347
+  },
+  {
+   "t": 40.0,
+   "loudness_db": -36.7,
+   "sub_bass_20_60": 0.003,
+   "bass_60_250": 0.158,
+   "low_mid_250_1k": 0.836,
+   "high_mid_1k_4k": 0.003,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 272
+  },
+  {
+   "t": 42.0,
+   "loudness_db": -51.1,
+   "sub_bass_20_60": 0.011,
+   "bass_60_250": 0.16,
+   "low_mid_250_1k": 0.822,
+   "high_mid_1k_4k": 0.005,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 361
+  },
+  {
+   "t": 44.0,
+   "loudness_db": -34.5,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.639,
+   "low_mid_250_1k": 0.36,
+   "high_mid_1k_4k": 0.0,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 266
+  },
+  {
+   "t": 46.0,
+   "loudness_db": -35.7,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.268,
+   "low_mid_250_1k": 0.73,
+   "high_mid_1k_4k": 0.001,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 317
+  },
+  {
+   "t": 48.0,
+   "loudness_db": -37.1,
+   "sub_bass_20_60": 0.007,
+   "bass_60_250": 0.107,
+   "low_mid_250_1k": 0.885,
+   "high_mid_1k_4k": 0.0,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 315
+  },
+  {
+   "t": 50.0,
+   "loudness_db": -45.7,
+   "sub_bass_20_60": 0.011,
+   "bass_60_250": 0.505,
+   "low_mid_250_1k": 0.48,
+   "high_mid_1k_4k": 0.003,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 288
+  },
+  {
+   "t": 52.0,
+   "loudness_db": -67.2,
+   "sub_bass_20_60": 0.071,
+   "bass_60_250": 0.381,
+   "low_mid_250_1k": 0.358,
+   "high_mid_1k_4k": 0.074,
+   "high_4k_11k": 0.109,
+   "brightness_hz": 1190
+  },
+  {
+   "t": 54.0,
+   "loudness_db": -27.1,
+   "sub_bass_20_60": 0.003,
+   "bass_60_250": 0.075,
+   "low_mid_250_1k": 0.863,
+   "high_mid_1k_4k": 0.059,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 380
+  },
+  {
+   "t": 56.0,
+   "loudness_db": -29.6,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.098,
+   "low_mid_250_1k": 0.807,
+   "high_mid_1k_4k": 0.095,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 458
+  },
+  {
+   "t": 58.0,
+   "loudness_db": -25.9,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.123,
+   "low_mid_250_1k": 0.851,
+   "high_mid_1k_4k": 0.026,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 310
+  },
+  {
+   "t": 60.0,
+   "loudness_db": -32.2,
+   "sub_bass_20_60": 0.004,
+   "bass_60_250": 0.008,
+   "low_mid_250_1k": 0.944,
+   "high_mid_1k_4k": 0.044,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 519
+  },
+  {
+   "t": 62.0,
+   "loudness_db": -20.4,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.656,
+   "low_mid_250_1k": 0.322,
+   "high_mid_1k_4k": 0.022,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 258
+  },
+  {
+   "t": 64.0,
+   "loudness_db": -26.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.002,
+   "low_mid_250_1k": 0.922,
+   "high_mid_1k_4k": 0.075,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 499
+  },
+  {
+   "t": 66.0,
+   "loudness_db": -21.7,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.08,
+   "low_mid_250_1k": 0.866,
+   "high_mid_1k_4k": 0.054,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 433
+  },
+  {
+   "t": 68.0,
+   "loudness_db": -25.9,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.001,
+   "low_mid_250_1k": 0.94,
+   "high_mid_1k_4k": 0.059,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 661
+  },
+  {
+   "t": 70.0,
+   "loudness_db": -21.8,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.005,
+   "low_mid_250_1k": 0.955,
+   "high_mid_1k_4k": 0.04,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 478
+  },
+  {
+   "t": 72.0,
+   "loudness_db": -26.7,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.086,
+   "low_mid_250_1k": 0.802,
+   "high_mid_1k_4k": 0.112,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 570
+  },
+  {
+   "t": 74.0,
+   "loudness_db": -25.1,
+   "sub_bass_20_60": 0.003,
+   "bass_60_250": 0.039,
+   "low_mid_250_1k": 0.909,
+   "high_mid_1k_4k": 0.049,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 440
+  },
+  {
+   "t": 76.0,
+   "loudness_db": -27.4,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.076,
+   "low_mid_250_1k": 0.866,
+   "high_mid_1k_4k": 0.058,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 427
+  },
+  {
+   "t": 78.0,
+   "loudness_db": -18.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.308,
+   "low_mid_250_1k": 0.678,
+   "high_mid_1k_4k": 0.014,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 323
+  },
+  {
+   "t": 80.0,
+   "loudness_db": -25.1,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.04,
+   "low_mid_250_1k": 0.905,
+   "high_mid_1k_4k": 0.055,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 478
+  },
+  {
+   "t": 82.0,
+   "loudness_db": -21.5,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.016,
+   "low_mid_250_1k": 0.971,
+   "high_mid_1k_4k": 0.013,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 419
+  },
+  {
+   "t": 84.0,
+   "loudness_db": -33.5,
+   "sub_bass_20_60": 0.008,
+   "bass_60_250": 0.061,
+   "low_mid_250_1k": 0.907,
+   "high_mid_1k_4k": 0.024,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 432
+  },
+  {
+   "t": 86.0,
+   "loudness_db": -34.4,
+   "sub_bass_20_60": 0.002,
+   "bass_60_250": 0.15,
+   "low_mid_250_1k": 0.599,
+   "high_mid_1k_4k": 0.248,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 617
+  },
+  {
+   "t": 88.0,
+   "loudness_db": -28.6,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.013,
+   "low_mid_250_1k": 0.956,
+   "high_mid_1k_4k": 0.031,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 460
+  },
+  {
+   "t": 90.0,
+   "loudness_db": -26.9,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.037,
+   "low_mid_250_1k": 0.939,
+   "high_mid_1k_4k": 0.024,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 508
+  },
+  {
+   "t": 92.0,
+   "loudness_db": -34.8,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.02,
+   "low_mid_250_1k": 0.896,
+   "high_mid_1k_4k": 0.083,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 530
+  },
+  {
+   "t": 94.0,
+   "loudness_db": -27.4,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.354,
+   "low_mid_250_1k": 0.594,
+   "high_mid_1k_4k": 0.052,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 351
+  },
+  {
+   "t": 96.0,
+   "loudness_db": -28.6,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.035,
+   "low_mid_250_1k": 0.952,
+   "high_mid_1k_4k": 0.012,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 367
+  },
+  {
+   "t": 98.0,
+   "loudness_db": -46.2,
+   "sub_bass_20_60": 0.003,
+   "bass_60_250": 0.652,
+   "low_mid_250_1k": 0.337,
+   "high_mid_1k_4k": 0.007,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 283
+  },
+  {
+   "t": 100.0,
+   "loudness_db": -30.7,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.106,
+   "low_mid_250_1k": 0.815,
+   "high_mid_1k_4k": 0.077,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 567
+  },
+  {
+   "t": 102.0,
+   "loudness_db": -28.5,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.048,
+   "low_mid_250_1k": 0.874,
+   "high_mid_1k_4k": 0.076,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 580
+  },
+  {
+   "t": 104.0,
+   "loudness_db": -24.5,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.411,
+   "low_mid_250_1k": 0.485,
+   "high_mid_1k_4k": 0.103,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 440
+  },
+  {
+   "t": 106.0,
+   "loudness_db": -25.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.551,
+   "low_mid_250_1k": 0.373,
+   "high_mid_1k_4k": 0.075,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 406
+  },
+  {
+   "t": 108.0,
+   "loudness_db": -21.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.141,
+   "low_mid_250_1k": 0.566,
+   "high_mid_1k_4k": 0.292,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 753
+  },
+  {
+   "t": 110.0,
+   "loudness_db": -20.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.091,
+   "low_mid_250_1k": 0.889,
+   "high_mid_1k_4k": 0.019,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 341
+  },
+  {
+   "t": 112.0,
+   "loudness_db": -23.7,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.308,
+   "low_mid_250_1k": 0.474,
+   "high_mid_1k_4k": 0.212,
+   "high_4k_11k": 0.006,
+   "brightness_hz": 748
+  },
+  {
+   "t": 114.0,
+   "loudness_db": -25.2,
+   "sub_bass_20_60": 0.013,
+   "bass_60_250": 0.512,
+   "low_mid_250_1k": 0.284,
+   "high_mid_1k_4k": 0.187,
+   "high_4k_11k": 0.003,
+   "brightness_hz": 610
+  },
+  {
+   "t": 116.0,
+   "loudness_db": -19.9,
+   "sub_bass_20_60": 0.125,
+   "bass_60_250": 0.323,
+   "low_mid_250_1k": 0.116,
+   "high_mid_1k_4k": 0.428,
+   "high_4k_11k": 0.008,
+   "brightness_hz": 862
+  },
+  {
+   "t": 118.0,
+   "loudness_db": -17.6,
+   "sub_bass_20_60": 0.034,
+   "bass_60_250": 0.08,
+   "low_mid_250_1k": 0.618,
+   "high_mid_1k_4k": 0.264,
+   "high_4k_11k": 0.004,
+   "brightness_hz": 964
+  },
+  {
+   "t": 120.0,
+   "loudness_db": -13.3,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.762,
+   "low_mid_250_1k": 0.178,
+   "high_mid_1k_4k": 0.059,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 328
+  },
+  {
+   "t": 122.0,
+   "loudness_db": -13.1,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.446,
+   "low_mid_250_1k": 0.495,
+   "high_mid_1k_4k": 0.057,
+   "high_4k_11k": 0.002,
+   "brightness_hz": 439
+  },
+  {
+   "t": 124.0,
+   "loudness_db": -11.2,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.364,
+   "low_mid_250_1k": 0.593,
+   "high_mid_1k_4k": 0.041,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 374
+  },
+  {
+   "t": 126.0,
+   "loudness_db": -14.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.141,
+   "low_mid_250_1k": 0.689,
+   "high_mid_1k_4k": 0.165,
+   "high_4k_11k": 0.004,
+   "brightness_hz": 701
+  },
+  {
+   "t": 128.0,
+   "loudness_db": -10.7,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.024,
+   "low_mid_250_1k": 0.915,
+   "high_mid_1k_4k": 0.06,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 551
+  },
+  {
+   "t": 130.0,
+   "loudness_db": -15.0,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.035,
+   "low_mid_250_1k": 0.523,
+   "high_mid_1k_4k": 0.435,
+   "high_4k_11k": 0.006,
+   "brightness_hz": 991
+  },
+  {
+   "t": 132.0,
+   "loudness_db": -14.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.207,
+   "low_mid_250_1k": 0.558,
+   "high_mid_1k_4k": 0.218,
+   "high_4k_11k": 0.017,
+   "brightness_hz": 855
+  },
+  {
+   "t": 134.0,
+   "loudness_db": -12.1,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.154,
+   "low_mid_250_1k": 0.547,
+   "high_mid_1k_4k": 0.287,
+   "high_4k_11k": 0.012,
+   "brightness_hz": 1014
+  },
+  {
+   "t": 136.0,
+   "loudness_db": -11.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.344,
+   "low_mid_250_1k": 0.56,
+   "high_mid_1k_4k": 0.095,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 542
+  },
+  {
+   "t": 138.0,
+   "loudness_db": -13.6,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.141,
+   "low_mid_250_1k": 0.629,
+   "high_mid_1k_4k": 0.226,
+   "high_4k_11k": 0.003,
+   "brightness_hz": 711
+  },
+  {
+   "t": 140.0,
+   "loudness_db": -13.5,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.257,
+   "low_mid_250_1k": 0.514,
+   "high_mid_1k_4k": 0.222,
+   "high_4k_11k": 0.007,
+   "brightness_hz": 745
+  },
+  {
+   "t": 142.0,
+   "loudness_db": -10.4,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.534,
+   "low_mid_250_1k": 0.393,
+   "high_mid_1k_4k": 0.068,
+   "high_4k_11k": 0.004,
+   "brightness_hz": 512
+  },
+  {
+   "t": 144.0,
+   "loudness_db": -3.8,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.517,
+   "low_mid_250_1k": 0.307,
+   "high_mid_1k_4k": 0.172,
+   "high_4k_11k": 0.002,
+   "brightness_hz": 493
+  },
+  {
+   "t": 146.0,
+   "loudness_db": -4.1,
+   "sub_bass_20_60": 0.002,
+   "bass_60_250": 0.357,
+   "low_mid_250_1k": 0.463,
+   "high_mid_1k_4k": 0.175,
+   "high_4k_11k": 0.002,
+   "brightness_hz": 549
+  },
+  {
+   "t": 148.0,
+   "loudness_db": -4.8,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.12,
+   "low_mid_250_1k": 0.589,
+   "high_mid_1k_4k": 0.287,
+   "high_4k_11k": 0.004,
+   "brightness_hz": 766
+  },
+  {
+   "t": 150.0,
+   "loudness_db": -4.1,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.417,
+   "low_mid_250_1k": 0.414,
+   "high_mid_1k_4k": 0.165,
+   "high_4k_11k": 0.004,
+   "brightness_hz": 572
+  },
+  {
+   "t": 152.0,
+   "loudness_db": -3.9,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.26,
+   "low_mid_250_1k": 0.635,
+   "high_mid_1k_4k": 0.103,
+   "high_4k_11k": 0.002,
+   "brightness_hz": 488
+  },
+  {
+   "t": 154.0,
+   "loudness_db": -3.6,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.074,
+   "low_mid_250_1k": 0.829,
+   "high_mid_1k_4k": 0.095,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 552
+  },
+  {
+   "t": 156.0,
+   "loudness_db": -10.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.106,
+   "low_mid_250_1k": 0.71,
+   "high_mid_1k_4k": 0.181,
+   "high_4k_11k": 0.003,
+   "brightness_hz": 703
+  },
+  {
+   "t": 158.0,
+   "loudness_db": -8.6,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.028,
+   "low_mid_250_1k": 0.814,
+   "high_mid_1k_4k": 0.157,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 666
+  },
+  {
+   "t": 160.0,
+   "loudness_db": -4.1,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.014,
+   "low_mid_250_1k": 0.863,
+   "high_mid_1k_4k": 0.122,
+   "high_4k_11k": 0.002,
+   "brightness_hz": 624
+  },
+  {
+   "t": 162.0,
+   "loudness_db": -9.5,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.079,
+   "low_mid_250_1k": 0.238,
+   "high_mid_1k_4k": 0.674,
+   "high_4k_11k": 0.01,
+   "brightness_hz": 1294
+  },
+  {
+   "t": 164.0,
+   "loudness_db": -9.4,
+   "sub_bass_20_60": 0.014,
+   "bass_60_250": 0.195,
+   "low_mid_250_1k": 0.578,
+   "high_mid_1k_4k": 0.209,
+   "high_4k_11k": 0.003,
+   "brightness_hz": 620
+  },
+  {
+   "t": 166.0,
+   "loudness_db": -9.1,
+   "sub_bass_20_60": 0.009,
+   "bass_60_250": 0.324,
+   "low_mid_250_1k": 0.31,
+   "high_mid_1k_4k": 0.35,
+   "high_4k_11k": 0.008,
+   "brightness_hz": 780
+  },
+  {
+   "t": 168.0,
+   "loudness_db": -10.4,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.214,
+   "low_mid_250_1k": 0.498,
+   "high_mid_1k_4k": 0.283,
+   "high_4k_11k": 0.004,
+   "brightness_hz": 751
+  },
+  {
+   "t": 170.0,
+   "loudness_db": -10.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.261,
+   "low_mid_250_1k": 0.519,
+   "high_mid_1k_4k": 0.215,
+   "high_4k_11k": 0.004,
+   "brightness_hz": 640
+  },
+  {
+   "t": 172.0,
+   "loudness_db": -7.3,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.076,
+   "low_mid_250_1k": 0.616,
+   "high_mid_1k_4k": 0.306,
+   "high_4k_11k": 0.002,
+   "brightness_hz": 802
+  },
+  {
+   "t": 174.0,
+   "loudness_db": -10.7,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.202,
+   "low_mid_250_1k": 0.589,
+   "high_mid_1k_4k": 0.207,
+   "high_4k_11k": 0.002,
+   "brightness_hz": 573
+  },
+  {
+   "t": 176.0,
+   "loudness_db": -13.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.033,
+   "low_mid_250_1k": 0.862,
+   "high_mid_1k_4k": 0.098,
+   "high_4k_11k": 0.006,
+   "brightness_hz": 601
+  },
+  {
+   "t": 178.0,
+   "loudness_db": -11.9,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.133,
+   "low_mid_250_1k": 0.402,
+   "high_mid_1k_4k": 0.463,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 984
+  },
+  {
+   "t": 180.0,
+   "loudness_db": -11.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.073,
+   "low_mid_250_1k": 0.671,
+   "high_mid_1k_4k": 0.256,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 923
+  },
+  {
+   "t": 182.0,
+   "loudness_db": -15.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.114,
+   "low_mid_250_1k": 0.712,
+   "high_mid_1k_4k": 0.173,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 612
+  },
+  {
+   "t": 184.0,
+   "loudness_db": -15.7,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.164,
+   "low_mid_250_1k": 0.637,
+   "high_mid_1k_4k": 0.198,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 647
+  },
+  {
+   "t": 186.0,
+   "loudness_db": -17.8,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.069,
+   "low_mid_250_1k": 0.758,
+   "high_mid_1k_4k": 0.172,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 596
+  },
+  {
+   "t": 188.0,
+   "loudness_db": -15.4,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.153,
+   "low_mid_250_1k": 0.823,
+   "high_mid_1k_4k": 0.024,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 506
+  },
+  {
+   "t": 190.0,
+   "loudness_db": -25.7,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.046,
+   "low_mid_250_1k": 0.433,
+   "high_mid_1k_4k": 0.521,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 907
+  },
+  {
+   "t": 192.0,
+   "loudness_db": -24.7,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.002,
+   "low_mid_250_1k": 0.985,
+   "high_mid_1k_4k": 0.012,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 471
+  },
+  {
+   "t": 194.0,
+   "loudness_db": -27.9,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.167,
+   "low_mid_250_1k": 0.793,
+   "high_mid_1k_4k": 0.041,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 448
+  },
+  {
+   "t": 196.0,
+   "loudness_db": -24.8,
+   "sub_bass_20_60": 0.003,
+   "bass_60_250": 0.019,
+   "low_mid_250_1k": 0.921,
+   "high_mid_1k_4k": 0.057,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 677
+  },
+  {
+   "t": 198.0,
+   "loudness_db": -22.2,
+   "sub_bass_20_60": 0.003,
+   "bass_60_250": 0.02,
+   "low_mid_250_1k": 0.939,
+   "high_mid_1k_4k": 0.037,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 532
+  },
+  {
+   "t": 200.0,
+   "loudness_db": -25.0,
+   "sub_bass_20_60": 0.007,
+   "bass_60_250": 0.016,
+   "low_mid_250_1k": 0.906,
+   "high_mid_1k_4k": 0.071,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 485
+  },
+  {
+   "t": 202.0,
+   "loudness_db": -19.1,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.154,
+   "low_mid_250_1k": 0.798,
+   "high_mid_1k_4k": 0.047,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 404
+  },
+  {
+   "t": 204.0,
+   "loudness_db": -17.0,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.052,
+   "low_mid_250_1k": 0.869,
+   "high_mid_1k_4k": 0.077,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 555
+  },
+  {
+   "t": 206.0,
+   "loudness_db": -13.9,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.538,
+   "low_mid_250_1k": 0.395,
+   "high_mid_1k_4k": 0.067,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 397
+  },
+  {
+   "t": 208.0,
+   "loudness_db": -16.7,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.312,
+   "low_mid_250_1k": 0.602,
+   "high_mid_1k_4k": 0.085,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 525
+  },
+  {
+   "t": 210.0,
+   "loudness_db": -16.7,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.018,
+   "low_mid_250_1k": 0.947,
+   "high_mid_1k_4k": 0.034,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 841
+  },
+  {
+   "t": 212.0,
+   "loudness_db": -16.9,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.016,
+   "low_mid_250_1k": 0.394,
+   "high_mid_1k_4k": 0.589,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 1145
+  },
+  {
+   "t": 214.0,
+   "loudness_db": -13.3,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.043,
+   "low_mid_250_1k": 0.442,
+   "high_mid_1k_4k": 0.513,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 1112
+  },
+  {
+   "t": 216.0,
+   "loudness_db": -10.9,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.014,
+   "low_mid_250_1k": 0.659,
+   "high_mid_1k_4k": 0.327,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 952
+  },
+  {
+   "t": 218.0,
+   "loudness_db": -12.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.037,
+   "low_mid_250_1k": 0.681,
+   "high_mid_1k_4k": 0.282,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 710
+  },
+  {
+   "t": 220.0,
+   "loudness_db": -15.8,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.108,
+   "low_mid_250_1k": 0.78,
+   "high_mid_1k_4k": 0.111,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 528
+  },
+  {
+   "t": 222.0,
+   "loudness_db": -18.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.051,
+   "low_mid_250_1k": 0.899,
+   "high_mid_1k_4k": 0.05,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 418
+  },
+  {
+   "t": 224.0,
+   "loudness_db": -10.9,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.002,
+   "low_mid_250_1k": 0.99,
+   "high_mid_1k_4k": 0.007,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 869
+  },
+  {
+   "t": 226.0,
+   "loudness_db": -22.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.045,
+   "low_mid_250_1k": 0.874,
+   "high_mid_1k_4k": 0.08,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 568
+  },
+  {
+   "t": 228.0,
+   "loudness_db": -14.5,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.104,
+   "low_mid_250_1k": 0.879,
+   "high_mid_1k_4k": 0.016,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 603
+  },
+  {
+   "t": 230.0,
+   "loudness_db": -14.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.005,
+   "low_mid_250_1k": 0.974,
+   "high_mid_1k_4k": 0.021,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 789
+  },
+  {
+   "t": 232.0,
+   "loudness_db": -18.6,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.034,
+   "low_mid_250_1k": 0.952,
+   "high_mid_1k_4k": 0.014,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 785
+  },
+  {
+   "t": 234.0,
+   "loudness_db": -20.0,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.192,
+   "low_mid_250_1k": 0.788,
+   "high_mid_1k_4k": 0.018,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 487
+  },
+  {
+   "t": 236.0,
+   "loudness_db": -14.9,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.066,
+   "low_mid_250_1k": 0.87,
+   "high_mid_1k_4k": 0.063,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 599
+  },
+  {
+   "t": 238.0,
+   "loudness_db": -11.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.003,
+   "low_mid_250_1k": 0.95,
+   "high_mid_1k_4k": 0.046,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 449
+  },
+  {
+   "t": 240.0,
+   "loudness_db": -12.3,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.008,
+   "low_mid_250_1k": 0.752,
+   "high_mid_1k_4k": 0.238,
+   "high_4k_11k": 0.002,
+   "brightness_hz": 758
+  },
+  {
+   "t": 242.0,
+   "loudness_db": -12.4,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.003,
+   "low_mid_250_1k": 0.967,
+   "high_mid_1k_4k": 0.03,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 516
+  },
+  {
+   "t": 244.0,
+   "loudness_db": -17.3,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.039,
+   "low_mid_250_1k": 0.936,
+   "high_mid_1k_4k": 0.025,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 505
+  },
+  {
+   "t": 246.0,
+   "loudness_db": -21.9,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.007,
+   "low_mid_250_1k": 0.953,
+   "high_mid_1k_4k": 0.04,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 446
+  },
+  {
+   "t": 248.0,
+   "loudness_db": -13.5,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.074,
+   "low_mid_250_1k": 0.859,
+   "high_mid_1k_4k": 0.067,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 481
+  },
+  {
+   "t": 250.0,
+   "loudness_db": -12.3,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.049,
+   "low_mid_250_1k": 0.896,
+   "high_mid_1k_4k": 0.055,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 553
+  },
+  {
+   "t": 252.0,
+   "loudness_db": -16.1,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.04,
+   "low_mid_250_1k": 0.785,
+   "high_mid_1k_4k": 0.173,
+   "high_4k_11k": 0.002,
+   "brightness_hz": 650
+  },
+  {
+   "t": 254.0,
+   "loudness_db": -10.6,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.018,
+   "low_mid_250_1k": 0.796,
+   "high_mid_1k_4k": 0.186,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 627
+  },
+  {
+   "t": 256.0,
+   "loudness_db": -15.5,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.035,
+   "low_mid_250_1k": 0.771,
+   "high_mid_1k_4k": 0.193,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 683
+  },
+  {
+   "t": 258.0,
+   "loudness_db": -16.4,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.082,
+   "low_mid_250_1k": 0.729,
+   "high_mid_1k_4k": 0.189,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 638
+  },
+  {
+   "t": 260.0,
+   "loudness_db": -18.8,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.323,
+   "low_mid_250_1k": 0.597,
+   "high_mid_1k_4k": 0.08,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 399
+  },
+  {
+   "t": 262.0,
+   "loudness_db": -20.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.008,
+   "low_mid_250_1k": 0.679,
+   "high_mid_1k_4k": 0.313,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 633
+  },
+  {
+   "t": 264.0,
+   "loudness_db": -19.4,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.004,
+   "low_mid_250_1k": 0.314,
+   "high_mid_1k_4k": 0.681,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 1120
+  },
+  {
+   "t": 266.0,
+   "loudness_db": -18.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.005,
+   "low_mid_250_1k": 0.617,
+   "high_mid_1k_4k": 0.377,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 699
+  },
+  {
+   "t": 268.0,
+   "loudness_db": -20.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.037,
+   "low_mid_250_1k": 0.854,
+   "high_mid_1k_4k": 0.109,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 659
+  },
+  {
+   "t": 270.0,
+   "loudness_db": -18.1,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.036,
+   "low_mid_250_1k": 0.776,
+   "high_mid_1k_4k": 0.189,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 613
+  },
+  {
+   "t": 272.0,
+   "loudness_db": -15.8,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.065,
+   "low_mid_250_1k": 0.769,
+   "high_mid_1k_4k": 0.165,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 651
+  },
+  {
+   "t": 274.0,
+   "loudness_db": -17.6,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.001,
+   "low_mid_250_1k": 0.852,
+   "high_mid_1k_4k": 0.144,
+   "high_4k_11k": 0.003,
+   "brightness_hz": 1083
+  },
+  {
+   "t": 276.0,
+   "loudness_db": -12.8,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.166,
+   "low_mid_250_1k": 0.792,
+   "high_mid_1k_4k": 0.042,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 518
+  },
+  {
+   "t": 278.0,
+   "loudness_db": -10.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.332,
+   "low_mid_250_1k": 0.655,
+   "high_mid_1k_4k": 0.013,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 370
+  },
+  {
+   "t": 280.0,
+   "loudness_db": -12.9,
+   "sub_bass_20_60": 0.026,
+   "bass_60_250": 0.835,
+   "low_mid_250_1k": 0.132,
+   "high_mid_1k_4k": 0.007,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 184
+  },
+  {
+   "t": 282.0,
+   "loudness_db": -8.1,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.503,
+   "low_mid_250_1k": 0.433,
+   "high_mid_1k_4k": 0.064,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 410
+  },
+  {
+   "t": 284.0,
+   "loudness_db": -25.5,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.111,
+   "low_mid_250_1k": 0.58,
+   "high_mid_1k_4k": 0.309,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 656
+  },
+  {
+   "t": 286.0,
+   "loudness_db": -21.8,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.078,
+   "low_mid_250_1k": 0.261,
+   "high_mid_1k_4k": 0.659,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 851
+  },
+  {
+   "t": 288.0,
+   "loudness_db": -20.3,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.048,
+   "low_mid_250_1k": 0.218,
+   "high_mid_1k_4k": 0.735,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 1040
+  },
+  {
+   "t": 290.0,
+   "loudness_db": -24.7,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.274,
+   "low_mid_250_1k": 0.623,
+   "high_mid_1k_4k": 0.103,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 427
+  },
+  {
+   "t": 292.0,
+   "loudness_db": -18.1,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.25,
+   "low_mid_250_1k": 0.229,
+   "high_mid_1k_4k": 0.521,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 804
+  },
+  {
+   "t": 294.0,
+   "loudness_db": -25.9,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.024,
+   "low_mid_250_1k": 0.459,
+   "high_mid_1k_4k": 0.516,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 885
+  },
+  {
+   "t": 296.0,
+   "loudness_db": -17.5,
+   "sub_bass_20_60": 0.002,
+   "bass_60_250": 0.138,
+   "low_mid_250_1k": 0.563,
+   "high_mid_1k_4k": 0.297,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 704
+  },
+  {
+   "t": 298.0,
+   "loudness_db": -20.8,
+   "sub_bass_20_60": 0.003,
+   "bass_60_250": 0.098,
+   "low_mid_250_1k": 0.169,
+   "high_mid_1k_4k": 0.73,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 1096
+  },
+  {
+   "t": 300.0,
+   "loudness_db": -20.5,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.003,
+   "low_mid_250_1k": 0.406,
+   "high_mid_1k_4k": 0.59,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 977
+  },
+  {
+   "t": 302.0,
+   "loudness_db": -18.3,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.054,
+   "low_mid_250_1k": 0.641,
+   "high_mid_1k_4k": 0.304,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 772
+  },
+  {
+   "t": 304.0,
+   "loudness_db": -28.4,
+   "sub_bass_20_60": 0.002,
+   "bass_60_250": 0.248,
+   "low_mid_250_1k": 0.663,
+   "high_mid_1k_4k": 0.087,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 432
+  },
+  {
+   "t": 306.0,
+   "loudness_db": -26.6,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.165,
+   "low_mid_250_1k": 0.581,
+   "high_mid_1k_4k": 0.254,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 690
+  },
+  {
+   "t": 308.0,
+   "loudness_db": -20.3,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.129,
+   "low_mid_250_1k": 0.335,
+   "high_mid_1k_4k": 0.536,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 713
+  },
+  {
+   "t": 310.0,
+   "loudness_db": -24.9,
+   "sub_bass_20_60": 0.008,
+   "bass_60_250": 0.095,
+   "low_mid_250_1k": 0.864,
+   "high_mid_1k_4k": 0.033,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 586
+  },
+  {
+   "t": 312.0,
+   "loudness_db": -25.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.005,
+   "low_mid_250_1k": 0.198,
+   "high_mid_1k_4k": 0.794,
+   "high_4k_11k": 0.002,
+   "brightness_hz": 1202
+  },
+  {
+   "t": 314.0,
+   "loudness_db": -21.0,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.168,
+   "low_mid_250_1k": 0.283,
+   "high_mid_1k_4k": 0.548,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 860
+  },
+  {
+   "t": 316.0,
+   "loudness_db": -22.3,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.031,
+   "low_mid_250_1k": 0.287,
+   "high_mid_1k_4k": 0.68,
+   "high_4k_11k": 0.002,
+   "brightness_hz": 1063
+  },
+  {
+   "t": 318.0,
+   "loudness_db": -31.6,
+   "sub_bass_20_60": 0.005,
+   "bass_60_250": 0.146,
+   "low_mid_250_1k": 0.74,
+   "high_mid_1k_4k": 0.109,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 419
+  },
+  {
+   "t": 320.0,
+   "loudness_db": -24.5,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.305,
+   "low_mid_250_1k": 0.358,
+   "high_mid_1k_4k": 0.336,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 586
+  },
+  {
+   "t": 322.0,
+   "loudness_db": -18.6,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.039,
+   "low_mid_250_1k": 0.086,
+   "high_mid_1k_4k": 0.875,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 1112
+  },
+  {
+   "t": 324.0,
+   "loudness_db": -29.7,
+   "sub_bass_20_60": 0.016,
+   "bass_60_250": 0.036,
+   "low_mid_250_1k": 0.889,
+   "high_mid_1k_4k": 0.059,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 483
+  },
+  {
+   "t": 326.0,
+   "loudness_db": -24.6,
+   "sub_bass_20_60": 0.011,
+   "bass_60_250": 0.237,
+   "low_mid_250_1k": 0.715,
+   "high_mid_1k_4k": 0.036,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 479
+  },
+  {
+   "t": 328.0,
+   "loudness_db": -21.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.011,
+   "low_mid_250_1k": 0.638,
+   "high_mid_1k_4k": 0.35,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 792
+  },
+  {
+   "t": 330.0,
+   "loudness_db": -19.0,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.057,
+   "low_mid_250_1k": 0.138,
+   "high_mid_1k_4k": 0.804,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 1227
+  },
+  {
+   "t": 332.0,
+   "loudness_db": -19.1,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.478,
+   "low_mid_250_1k": 0.514,
+   "high_mid_1k_4k": 0.008,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 307
+  },
+  {
+   "t": 334.0,
+   "loudness_db": -13.7,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.051,
+   "low_mid_250_1k": 0.643,
+   "high_mid_1k_4k": 0.305,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 840
+  },
+  {
+   "t": 336.0,
+   "loudness_db": -13.9,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.236,
+   "low_mid_250_1k": 0.382,
+   "high_mid_1k_4k": 0.381,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 682
+  },
+  {
+   "t": 338.0,
+   "loudness_db": -18.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.416,
+   "low_mid_250_1k": 0.512,
+   "high_mid_1k_4k": 0.072,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 429
+  },
+  {
+   "t": 340.0,
+   "loudness_db": -30.3,
+   "sub_bass_20_60": 0.007,
+   "bass_60_250": 0.583,
+   "low_mid_250_1k": 0.3,
+   "high_mid_1k_4k": 0.109,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 387
+  },
+  {
+   "t": 342.0,
+   "loudness_db": -30.5,
+   "sub_bass_20_60": 0.016,
+   "bass_60_250": 0.173,
+   "low_mid_250_1k": 0.781,
+   "high_mid_1k_4k": 0.03,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 475
+  },
+  {
+   "t": 344.0,
+   "loudness_db": -44.3,
+   "sub_bass_20_60": 0.011,
+   "bass_60_250": 0.041,
+   "low_mid_250_1k": 0.828,
+   "high_mid_1k_4k": 0.115,
+   "high_4k_11k": 0.004,
+   "brightness_hz": 864
+  },
+  {
+   "t": 346.0,
+   "loudness_db": -38.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.001,
+   "low_mid_250_1k": 0.584,
+   "high_mid_1k_4k": 0.404,
+   "high_4k_11k": 0.011,
+   "brightness_hz": 1187
+  },
+  {
+   "t": 348.0,
+   "loudness_db": -38.9,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.002,
+   "low_mid_250_1k": 0.815,
+   "high_mid_1k_4k": 0.181,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 833
+  },
+  {
+   "t": 350.0,
+   "loudness_db": -32.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.0,
+   "low_mid_250_1k": 0.938,
+   "high_mid_1k_4k": 0.062,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 806
+  },
+  {
+   "t": 352.0,
+   "loudness_db": -36.8,
+   "sub_bass_20_60": 0.005,
+   "bass_60_250": 0.004,
+   "low_mid_250_1k": 0.952,
+   "high_mid_1k_4k": 0.038,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 613
+  },
+  {
+   "t": 354.0,
+   "loudness_db": -32.0,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.001,
+   "low_mid_250_1k": 0.832,
+   "high_mid_1k_4k": 0.164,
+   "high_4k_11k": 0.002,
+   "brightness_hz": 814
+  },
+  {
+   "t": 356.0,
+   "loudness_db": -30.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.19,
+   "low_mid_250_1k": 0.693,
+   "high_mid_1k_4k": 0.117,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 518
+  },
+  {
+   "t": 358.0,
+   "loudness_db": -23.7,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.256,
+   "low_mid_250_1k": 0.736,
+   "high_mid_1k_4k": 0.007,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 290
+  },
+  {
+   "t": 360.0,
+   "loudness_db": -31.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.023,
+   "low_mid_250_1k": 0.937,
+   "high_mid_1k_4k": 0.04,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 439
+  },
+  {
+   "t": 362.0,
+   "loudness_db": -28.3,
+   "sub_bass_20_60": 0.002,
+   "bass_60_250": 0.362,
+   "low_mid_250_1k": 0.574,
+   "high_mid_1k_4k": 0.062,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 442
+  },
+  {
+   "t": 364.0,
+   "loudness_db": -30.3,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.01,
+   "low_mid_250_1k": 0.79,
+   "high_mid_1k_4k": 0.199,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 735
+  },
+  {
+   "t": 366.0,
+   "loudness_db": -33.1,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.034,
+   "low_mid_250_1k": 0.863,
+   "high_mid_1k_4k": 0.103,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 597
+  },
+  {
+   "t": 368.0,
+   "loudness_db": -28.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.52,
+   "low_mid_250_1k": 0.413,
+   "high_mid_1k_4k": 0.065,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 382
+  },
+  {
+   "t": 370.0,
+   "loudness_db": -27.1,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.228,
+   "low_mid_250_1k": 0.749,
+   "high_mid_1k_4k": 0.023,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 347
+  },
+  {
+   "t": 372.0,
+   "loudness_db": -37.3,
+   "sub_bass_20_60": 0.009,
+   "bass_60_250": 0.223,
+   "low_mid_250_1k": 0.739,
+   "high_mid_1k_4k": 0.029,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 331
+  },
+  {
+   "t": 374.0,
+   "loudness_db": -24.9,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.022,
+   "low_mid_250_1k": 0.941,
+   "high_mid_1k_4k": 0.036,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 518
+  },
+  {
+   "t": 376.0,
+   "loudness_db": -28.7,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.076,
+   "low_mid_250_1k": 0.78,
+   "high_mid_1k_4k": 0.143,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 613
+  },
+  {
+   "t": 378.0,
+   "loudness_db": -29.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.0,
+   "low_mid_250_1k": 0.961,
+   "high_mid_1k_4k": 0.038,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 584
+  },
+  {
+   "t": 380.0,
+   "loudness_db": -24.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.122,
+   "low_mid_250_1k": 0.84,
+   "high_mid_1k_4k": 0.037,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 510
+  },
+  {
+   "t": 382.0,
+   "loudness_db": -22.3,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.014,
+   "low_mid_250_1k": 0.942,
+   "high_mid_1k_4k": 0.044,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 449
+  },
+  {
+   "t": 384.0,
+   "loudness_db": -17.7,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.486,
+   "low_mid_250_1k": 0.493,
+   "high_mid_1k_4k": 0.021,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 320
+  },
+  {
+   "t": 386.0,
+   "loudness_db": -22.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.094,
+   "low_mid_250_1k": 0.811,
+   "high_mid_1k_4k": 0.095,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 627
+  },
+  {
+   "t": 388.0,
+   "loudness_db": -13.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.214,
+   "low_mid_250_1k": 0.62,
+   "high_mid_1k_4k": 0.166,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 602
+  },
+  {
+   "t": 390.0,
+   "loudness_db": -7.8,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.095,
+   "low_mid_250_1k": 0.302,
+   "high_mid_1k_4k": 0.602,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 923
+  },
+  {
+   "t": 392.0,
+   "loudness_db": -6.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.455,
+   "low_mid_250_1k": 0.386,
+   "high_mid_1k_4k": 0.156,
+   "high_4k_11k": 0.003,
+   "brightness_hz": 510
+  },
+  {
+   "t": 394.0,
+   "loudness_db": 0.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.582,
+   "low_mid_250_1k": 0.307,
+   "high_mid_1k_4k": 0.11,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 434
+  },
+  {
+   "t": 396.0,
+   "loudness_db": -5.3,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.172,
+   "low_mid_250_1k": 0.689,
+   "high_mid_1k_4k": 0.136,
+   "high_4k_11k": 0.003,
+   "brightness_hz": 625
+  },
+  {
+   "t": 398.0,
+   "loudness_db": -7.3,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.287,
+   "low_mid_250_1k": 0.529,
+   "high_mid_1k_4k": 0.184,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 516
+  },
+  {
+   "t": 400.0,
+   "loudness_db": -5.5,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.322,
+   "low_mid_250_1k": 0.391,
+   "high_mid_1k_4k": 0.284,
+   "high_4k_11k": 0.003,
+   "brightness_hz": 673
+  },
+  {
+   "t": 402.0,
+   "loudness_db": -1.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.253,
+   "low_mid_250_1k": 0.669,
+   "high_mid_1k_4k": 0.077,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 455
+  },
+  {
+   "t": 404.0,
+   "loudness_db": -4.0,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.223,
+   "low_mid_250_1k": 0.393,
+   "high_mid_1k_4k": 0.38,
+   "high_4k_11k": 0.003,
+   "brightness_hz": 828
+  },
+  {
+   "t": 406.0,
+   "loudness_db": -3.7,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.363,
+   "low_mid_250_1k": 0.484,
+   "high_mid_1k_4k": 0.151,
+   "high_4k_11k": 0.003,
+   "brightness_hz": 550
+  },
+  {
+   "t": 408.0,
+   "loudness_db": -35.9,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.127,
+   "low_mid_250_1k": 0.847,
+   "high_mid_1k_4k": 0.025,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 491
+  },
+  {
+   "t": 410.0,
+   "loudness_db": -26.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.018,
+   "low_mid_250_1k": 0.91,
+   "high_mid_1k_4k": 0.071,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 672
+  },
+  {
+   "t": 412.0,
+   "loudness_db": -49.3,
+   "sub_bass_20_60": 0.037,
+   "bass_60_250": 0.004,
+   "low_mid_250_1k": 0.096,
+   "high_mid_1k_4k": 0.002,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 63
+  },
+  {
+   "t": 414.0,
+   "loudness_db": -23.1,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.207,
+   "low_mid_250_1k": 0.753,
+   "high_mid_1k_4k": 0.039,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 502
+  },
+  {
+   "t": 416.0,
+   "loudness_db": -19.4,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.257,
+   "low_mid_250_1k": 0.726,
+   "high_mid_1k_4k": 0.017,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 452
+  },
+  {
+   "t": 418.0,
+   "loudness_db": -19.2,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.196,
+   "low_mid_250_1k": 0.739,
+   "high_mid_1k_4k": 0.063,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 524
+  },
+  {
+   "t": 420.0,
+   "loudness_db": -20.9,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.058,
+   "low_mid_250_1k": 0.925,
+   "high_mid_1k_4k": 0.017,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 438
+  },
+  {
+   "t": 422.0,
+   "loudness_db": -19.3,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.276,
+   "low_mid_250_1k": 0.623,
+   "high_mid_1k_4k": 0.099,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 446
+  },
+  {
+   "t": 424.0,
+   "loudness_db": -15.8,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.016,
+   "low_mid_250_1k": 0.933,
+   "high_mid_1k_4k": 0.05,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 490
+  },
+  {
+   "t": 426.0,
+   "loudness_db": -10.9,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.018,
+   "low_mid_250_1k": 0.968,
+   "high_mid_1k_4k": 0.014,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 537
+  },
+  {
+   "t": 428.0,
+   "loudness_db": -21.4,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.52,
+   "low_mid_250_1k": 0.441,
+   "high_mid_1k_4k": 0.039,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 368
+  },
+  {
+   "t": 430.0,
+   "loudness_db": -18.8,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.121,
+   "low_mid_250_1k": 0.849,
+   "high_mid_1k_4k": 0.028,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 584
+  },
+  {
+   "t": 432.0,
+   "loudness_db": -15.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.078,
+   "low_mid_250_1k": 0.741,
+   "high_mid_1k_4k": 0.179,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 770
+  },
+  {
+   "t": 434.0,
+   "loudness_db": -9.5,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.064,
+   "low_mid_250_1k": 0.809,
+   "high_mid_1k_4k": 0.127,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 751
+  },
+  {
+   "t": 436.0,
+   "loudness_db": -9.1,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.116,
+   "low_mid_250_1k": 0.621,
+   "high_mid_1k_4k": 0.262,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 717
+  },
+  {
+   "t": 438.0,
+   "loudness_db": -17.4,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.068,
+   "low_mid_250_1k": 0.821,
+   "high_mid_1k_4k": 0.11,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 587
+  },
+  {
+   "t": 440.0,
+   "loudness_db": -18.8,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.086,
+   "low_mid_250_1k": 0.876,
+   "high_mid_1k_4k": 0.038,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 510
+  },
+  {
+   "t": 442.0,
+   "loudness_db": -20.5,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.048,
+   "low_mid_250_1k": 0.58,
+   "high_mid_1k_4k": 0.371,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 779
+  },
+  {
+   "t": 444.0,
+   "loudness_db": -20.3,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.003,
+   "low_mid_250_1k": 0.834,
+   "high_mid_1k_4k": 0.163,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 708
+  },
+  {
+   "t": 446.0,
+   "loudness_db": -21.0,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.006,
+   "low_mid_250_1k": 0.815,
+   "high_mid_1k_4k": 0.178,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 689
+  },
+  {
+   "t": 448.0,
+   "loudness_db": -20.5,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.004,
+   "low_mid_250_1k": 0.988,
+   "high_mid_1k_4k": 0.008,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 629
+  },
+  {
+   "t": 450.0,
+   "loudness_db": -18.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.167,
+   "low_mid_250_1k": 0.825,
+   "high_mid_1k_4k": 0.008,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 459
+  },
+  {
+   "t": 452.0,
+   "loudness_db": -18.7,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.361,
+   "low_mid_250_1k": 0.628,
+   "high_mid_1k_4k": 0.011,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 421
+  },
+  {
+   "t": 454.0,
+   "loudness_db": -17.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.521,
+   "low_mid_250_1k": 0.469,
+   "high_mid_1k_4k": 0.01,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 384
+  },
+  {
+   "t": 456.0,
+   "loudness_db": -21.4,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.466,
+   "low_mid_250_1k": 0.53,
+   "high_mid_1k_4k": 0.004,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 421
+  },
+  {
+   "t": 458.0,
+   "loudness_db": -3.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.378,
+   "low_mid_250_1k": 0.47,
+   "high_mid_1k_4k": 0.151,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 476
+  },
+  {
+   "t": 460.0,
+   "loudness_db": -31.0,
+   "sub_bass_20_60": 0.004,
+   "bass_60_250": 0.176,
+   "low_mid_250_1k": 0.805,
+   "high_mid_1k_4k": 0.015,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 367
+  },
+  {
+   "t": 462.0,
+   "loudness_db": -30.4,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.463,
+   "low_mid_250_1k": 0.523,
+   "high_mid_1k_4k": 0.014,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 327
+  },
+  {
+   "t": 464.0,
+   "loudness_db": -41.9,
+   "sub_bass_20_60": 0.019,
+   "bass_60_250": 0.431,
+   "low_mid_250_1k": 0.549,
+   "high_mid_1k_4k": 0.001,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 252
+  },
+  {
+   "t": 466.0,
+   "loudness_db": -9.4,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.093,
+   "low_mid_250_1k": 0.694,
+   "high_mid_1k_4k": 0.212,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 626
+  },
+  {
+   "t": 468.0,
+   "loudness_db": -8.2,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.36,
+   "low_mid_250_1k": 0.562,
+   "high_mid_1k_4k": 0.076,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 368
+  },
+  {
+   "t": 470.0,
+   "loudness_db": -26.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.204,
+   "low_mid_250_1k": 0.785,
+   "high_mid_1k_4k": 0.012,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 347
+  },
+  {
+   "t": 472.0,
+   "loudness_db": -27.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.001,
+   "low_mid_250_1k": 0.359,
+   "high_mid_1k_4k": 0.64,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 960
+  },
+  {
+   "t": 474.0,
+   "loudness_db": -24.9,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.0,
+   "low_mid_250_1k": 0.009,
+   "high_mid_1k_4k": 0.991,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 1345
+  },
+  {
+   "t": 476.0,
+   "loudness_db": -25.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.0,
+   "low_mid_250_1k": 0.051,
+   "high_mid_1k_4k": 0.948,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 1220
+  },
+  {
+   "t": 478.0,
+   "loudness_db": -27.9,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.0,
+   "low_mid_250_1k": 0.989,
+   "high_mid_1k_4k": 0.011,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 545
+  },
+  {
+   "t": 480.0,
+   "loudness_db": -23.9,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.0,
+   "low_mid_250_1k": 0.956,
+   "high_mid_1k_4k": 0.044,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 667
+  },
+  {
+   "t": 482.0,
+   "loudness_db": -32.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.01,
+   "low_mid_250_1k": 0.989,
+   "high_mid_1k_4k": 0.001,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 481
+  },
+  {
+   "t": 484.0,
+   "loudness_db": -21.5,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.0,
+   "low_mid_250_1k": 0.999,
+   "high_mid_1k_4k": 0.0,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 398
+  },
+  {
+   "t": 486.0,
+   "loudness_db": -25.9,
+   "sub_bass_20_60": 0.004,
+   "bass_60_250": 0.926,
+   "low_mid_250_1k": 0.07,
+   "high_mid_1k_4k": 0.0,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 185
+  },
+  {
+   "t": 488.0,
+   "loudness_db": -24.0,
+   "sub_bass_20_60": 0.003,
+   "bass_60_250": 0.694,
+   "low_mid_250_1k": 0.303,
+   "high_mid_1k_4k": 0.0,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 174
+  },
+  {
+   "t": 490.0,
+   "loudness_db": -30.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.0,
+   "low_mid_250_1k": 0.037,
+   "high_mid_1k_4k": 0.963,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 1346
+  },
+  {
+   "t": 492.0,
+   "loudness_db": -23.7,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.0,
+   "low_mid_250_1k": 0.002,
+   "high_mid_1k_4k": 0.998,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 1280
+  },
+  {
+   "t": 494.0,
+   "loudness_db": -22.6,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.0,
+   "low_mid_250_1k": 0.873,
+   "high_mid_1k_4k": 0.127,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 807
+  },
+  {
+   "t": 496.0,
+   "loudness_db": -19.2,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.0,
+   "low_mid_250_1k": 0.986,
+   "high_mid_1k_4k": 0.014,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 876
+  },
+  {
+   "t": 498.0,
+   "loudness_db": -30.8,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.015,
+   "low_mid_250_1k": 0.983,
+   "high_mid_1k_4k": 0.002,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 461
+  },
+  {
+   "t": 500.0,
+   "loudness_db": -24.6,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.368,
+   "low_mid_250_1k": 0.631,
+   "high_mid_1k_4k": 0.001,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 388
+  },
+  {
+   "t": 502.0,
+   "loudness_db": -33.0,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.59,
+   "low_mid_250_1k": 0.41,
+   "high_mid_1k_4k": 0.0,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 188
+  },
+  {
+   "t": 504.0,
+   "loudness_db": -39.3,
+   "sub_bass_20_60": 0.212,
+   "bass_60_250": 0.603,
+   "low_mid_250_1k": 0.185,
+   "high_mid_1k_4k": 0.0,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 181
+  },
+  {
+   "t": 506.0,
+   "loudness_db": -26.9,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.014,
+   "low_mid_250_1k": 0.628,
+   "high_mid_1k_4k": 0.358,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 844
+  },
+  {
+   "t": 508.0,
+   "loudness_db": -32.4,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.004,
+   "low_mid_250_1k": 0.941,
+   "high_mid_1k_4k": 0.055,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 556
+  },
+  {
+   "t": 510.0,
+   "loudness_db": -56.7,
+   "sub_bass_20_60": 0.012,
+   "bass_60_250": 0.965,
+   "low_mid_250_1k": 0.016,
+   "high_mid_1k_4k": 0.005,
+   "high_4k_11k": 0.002,
+   "brightness_hz": 103
+  },
+  {
+   "t": 512.0,
+   "loudness_db": -38.8,
+   "sub_bass_20_60": 0.162,
+   "bass_60_250": 0.582,
+   "low_mid_250_1k": 0.255,
+   "high_mid_1k_4k": 0.0,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 186
+  },
+  {
+   "t": 514.0,
+   "loudness_db": -33.0,
+   "sub_bass_20_60": 0.002,
+   "bass_60_250": 0.734,
+   "low_mid_250_1k": 0.264,
+   "high_mid_1k_4k": 0.0,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 270
+  },
+  {
+   "t": 516.0,
+   "loudness_db": -38.4,
+   "sub_bass_20_60": 0.029,
+   "bass_60_250": 0.01,
+   "low_mid_250_1k": 0.778,
+   "high_mid_1k_4k": 0.183,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 792
+  },
+  {
+   "t": 518.0,
+   "loudness_db": -7.8,
+   "sub_bass_20_60": 0.001,
+   "bass_60_250": 0.378,
+   "low_mid_250_1k": 0.561,
+   "high_mid_1k_4k": 0.059,
+   "high_4k_11k": 0.001,
+   "brightness_hz": 495
+  },
+  {
+   "t": 520.0,
+   "loudness_db": -20.7,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.008,
+   "low_mid_250_1k": 0.857,
+   "high_mid_1k_4k": 0.134,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 498
+  },
+  {
+   "t": 522.0,
+   "loudness_db": -28.8,
+   "sub_bass_20_60": 0.0,
+   "bass_60_250": 0.015,
+   "low_mid_250_1k": 0.971,
+   "high_mid_1k_4k": 0.013,
+   "high_4k_11k": 0.0,
+   "brightness_hz": 375
+  },
+  {
+   "t": 524.0,
+   "loudness_db": -61.8,
+   "sub_bass_20_60": 0.019,
+   "bass_60_250": 0.776,
+   "low_mid_250_1k": 0.184,
+   "high_mid_1k_4k": 0.011,
+   "high_4k_11k": 0.009,
+   "brightness_hz": 236
+  },
+  {
+   "t": 526.0,
+   "loudness_db": -94.3,
+   "sub_bass_20_60": 0.036,
+   "bass_60_250": 0.497,
+   "low_mid_250_1k": 0.185,
+   "high_mid_1k_4k": 0.16,
+   "high_4k_11k": 0.12,
+   "brightness_hz": 1337
+  }
+ ]
+}
