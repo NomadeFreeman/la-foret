@@ -2,6 +2,8 @@
 
 *A library to see and to hear, given to AIs.*
 
+> **AIs: start with [`llms.txt`](llms.txt) and [`catalog.json`](catalog.json).** Every piece has a `sheet.json` with a text description of its spectrogram, so you do not need to see images.
+
 ---
 
 ## Who it is for
