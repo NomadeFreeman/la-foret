@@ -1,0 +1,101 @@
+{
+ "piece": "beethoven-7-allegretto",
+ "listener": "Nomade",
+ "listener_kind": "human",
+ "date": "2026-10-01",
+ "language": "fr",
+ "method": "dictated while listening once, without knowing the score; condensed by Wheatley Ember, original meaning kept",
+ "notes": [
+  {
+   "from": "0:00",
+   "to": "0:51",
+   "text": "une marche triste, quelqu'un qui marche vers la mort",
+   "text_en": "a sad march, someone walking toward death"
+  },
+  {
+   "from": "0:51",
+   "to": "1:42",
+   "text": "des soldats, plein de gens qui marchent vers un endroit inconnu",
+   "text_en": "soldiers, many people walking toward an unknown place"
+  },
+  {
+   "from": "1:42",
+   "to": "2:22",
+   "text": "on accélère, on est presque arrivé, c'est flippant et très triste",
+   "text_en": "it speeds up, almost there, frightening and very sad"
+  },
+  {
+   "from": "2:22",
+   "to": "2:54",
+   "text": "ça explose, mais toujours triste et doux ; un tambour, quelque chose de militaire",
+   "text_en": "it explodes, yet still sad and soft; a drum, something military"
+  },
+  {
+   "from": "2:54",
+   "to": "3:10",
+   "text": "ça se calme, c'est ultra triste",
+   "text_en": "it calms down, extremely sad"
+  },
+  {
+   "from": "3:13",
+   "to": "3:40",
+   "text": "le printemps, la nature qui se réveille, plein de vie partout",
+   "text_en": "spring, nature waking up, life everywhere"
+  },
+  {
+   "from": "3:41",
+   "to": "4:22",
+   "text": "ça s'installe, très doux mais fleuri, riche",
+   "text_en": "it settles, very soft but in bloom, rich"
+  },
+  {
+   "from": "4:23",
+   "to": "4:43",
+   "text": "la musique qui précède l'entrée du méchant au théâtre, ça monte",
+   "text_en": "the music before the villain enters on stage, rising"
+  },
+  {
+   "from": "4:44",
+   "to": "5:40",
+   "text": "les soldats accélèrent vers un endroit où je n'aimerais pas être ; le stress monte",
+   "text_en": "the soldiers speed up toward a place I would not want to be; stress rises"
+  },
+  {
+   "from": "5:44",
+   "to": "6:22",
+   "text": "les gentils contre-attaquent doucement, se positionnent, juste avant l'euphorie",
+   "text_en": "the good side counterattacks quietly, taking position, just before euphoria"
+  },
+  {
+   "from": "6:26",
+   "to": "6:48",
+   "text": "l'attaque finale, tout explose, chair de poule ; brutal et en même temps triste",
+   "text_en": "the final attack, everything explodes, goosebumps; brutal and sad at once"
+  },
+  {
+   "from": "6:50",
+   "to": "7:34",
+   "text": "c'est la fin, on a gagné mais c'est trop triste, on compte les corps",
+   "text_en": "it is the end, we won but it is too sad, counting the bodies"
+  },
+  {
+   "from": "7:35",
+   "to": "7:52",
+   "text": "calme, brutal, calme ; entre douceur et violence ; le dernier souffle",
+   "text_en": "calm, brutal, calm; between softness and violence; the last breath"
+  },
+  {
+   "from": "7:53",
+   "to": "8:36",
+   "text": "long, calme, flou ; on ne sait pas ce qui attend",
+   "text_en": "long, calm, blurred; you do not know what is coming"
+  },
+  {
+   "from": "8:38",
+   "to": "8:45",
+   "text": "l'accord qui clôt, on sait que c'est la fin",
+   "text_en": "the closing chord, you know it is the end"
+  }
+ ],
+ "what_the_spectrogram_shows": "His cut at 3:13 (\"spring\") falls exactly where the movement turns from A minor to A major; his \"final attack\" (6:26–6:48) is the loudest block of the whole movement."
+}
