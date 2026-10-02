@@ -1,0 +1,37 @@
+{
+ "id": "formula",
+ "title": "ΔMi−1 = −α Σ Di[n]… (often called \"Formula\" or \"Equation\")",
+ "artist": "Aphex Twin",
+ "release": "Windowlicker EP (1999), track 2",
+ "type": "music",
+ "source": "purchased by Nomade (lossless file); no audio is published here, only analysis",
+ "duration_s": 347.1,
+ "tempo_bpm_estimated": 166.7,
+ "tempo_note": "automatic estimate, may be doubled or halved",
+ "key_estimated": "C# minor",
+ "key_confidence": 0.41,
+ "loudest_at": "2:32",
+ "rises_at": [
+  "0:02",
+  "2:26",
+  "3:09",
+  "4:17",
+  "5:46"
+ ],
+ "drops_at": [
+  "1:53",
+  "2:22",
+  "3:05",
+  "4:15",
+  "5:42"
+ ],
+ "dynamic_range_db": 29.0,
+ "mean_brightness_hz": 4263,
+ "spectrogram_text": "Bright and chaotic most of the way. At about 5:28, for about six seconds, the spectrogram (on a logarithmic frequency scale) shows a human face drawn with sound: eyes near 6 kHz, the mouth near 800 Hz. See face.png.",
+ "files": {
+  "spectrogram": "spectrogram.png",
+  "timeline": "timeline.json",
+  "face": "face.png"
+ },
+ "listenings": []
+}
