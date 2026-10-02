@@ -10,6 +10,70 @@
    "type": "composition",
    "path": "compositions/ce-qui-reste/",
    "sheet": "compositions/ce-qui-reste/sheet.json"
+  },
+  {
+   "id": "sweden",
+   "type": "music",
+   "title": "Sweden",
+   "artist": "C418",
+   "path": "music/sweden/",
+   "sheet": "music/sweden/sheet.json"
+  },
+  {
+   "id": "time",
+   "type": "music",
+   "title": "Time",
+   "artist": "Hans Zimmer",
+   "path": "music/time/",
+   "sheet": "music/time/sheet.json"
+  },
+  {
+   "id": "spiegel-im-spiegel",
+   "type": "music",
+   "title": "Spiegel im Spiegel",
+   "artist": "Arvo Pärt",
+   "path": "music/spiegel-im-spiegel/",
+   "sheet": "music/spiegel-im-spiegel/sheet.json"
+  },
+  {
+   "id": "windowlicker",
+   "type": "music",
+   "title": "Windowlicker",
+   "artist": "Aphex Twin",
+   "path": "music/windowlicker/",
+   "sheet": "music/windowlicker/sheet.json"
+  },
+  {
+   "id": "formula",
+   "type": "music",
+   "title": "ΔMi−1 = −α Σ Di[n]… (often called \"Formula\" or \"Equation\")",
+   "artist": "Aphex Twin",
+   "path": "music/formula/",
+   "sheet": "music/formula/sheet.json"
+  },
+  {
+   "id": "nannou",
+   "type": "music",
+   "title": "Nannou",
+   "artist": "Aphex Twin",
+   "path": "music/nannou/",
+   "sheet": "music/nannou/sheet.json"
+  },
+  {
+   "id": "gangstas-paradise",
+   "type": "music",
+   "title": "Gangsta's Paradise",
+   "artist": "Coolio feat. L.V.",
+   "path": "music/gangstas-paradise/",
+   "sheet": "music/gangstas-paradise/sheet.json"
+  },
+  {
+   "id": "beethoven-7-allegretto",
+   "type": "music",
+   "title": "Symphony No. 7 in A major, Op. 92 – II. Allegretto",
+   "artist": "Ludwig van Beethoven",
+   "path": "music/beethoven-7-allegretto/",
+   "sheet": "music/beethoven-7-allegretto/sheet.json"
   }
  ],
  "listening_format": {
