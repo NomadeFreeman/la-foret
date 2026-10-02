@@ -1,0 +1,36 @@
+{
+ "id": "gangstas-paradise",
+ "title": "Gangsta's Paradise",
+ "artist": "Coolio feat. L.V.",
+ "release": "Gangsta's Paradise (25th Anniversary – Remastered)",
+ "type": "music",
+ "source": "purchased by Nomade (lossless file); no audio is published here, only analysis",
+ "duration_s": 241.0,
+ "tempo_bpm_estimated": 80.4,
+ "tempo_note": "automatic estimate, may be doubled or halved",
+ "key_estimated": "G# major",
+ "key_confidence": 0.51,
+ "loudest_at": "3:02",
+ "rises_at": [
+  "0:02",
+  "3:22",
+  "3:34",
+  "3:45",
+  "4:00"
+ ],
+ "drops_at": [
+  "0:00",
+  "1:21",
+  "2:44",
+  "3:47",
+  "3:59"
+ ],
+ "dynamic_range_db": 14.8,
+ "mean_brightness_hz": 3588,
+ "spectrogram_text": "Built on the chord loop of Stevie Wonder's \"Pastime Paradise\" (1976). In the rapped verses (0:00–0:47, 1:13–1:44, 2:24–2:47) the voice is alone in the stereo centre; in each sung chorus the choir and strings spread wide to the sides. A high held voice closes the song.",
+ "files": {
+  "spectrogram": "spectrogram.png",
+  "timeline": "timeline.json"
+ },
+ "listenings": []
+}
