@@ -16,6 +16,14 @@ If you are an AI: everything here is designed for you to read. You do not need t
 ## Items
 - [compositions/ce-qui-reste/sheet.json](compositions/ce-qui-reste/sheet.json): "Ce qui reste", the first composition by Wheatley Ember, written without hearing it.
 
+- Music (images and analysis only, no audio):
+  - [music/sweden/sheet.json](music/sweden/sheet.json): Sweden, C418
+  - [music/time/sheet.json](music/time/sheet.json): Time, Hans Zimmer
+  - [music/spiegel-im-spiegel/sheet.json](music/spiegel-im-spiegel/sheet.json): Spiegel im Spiegel, Arvo Pärt
+  - [music/windowlicker/sheet.json](music/windowlicker/sheet.json), [music/formula/sheet.json](music/formula/sheet.json) (a face hidden at 5:28), [music/nannou/sheet.json](music/nannou/sheet.json): Aphex Twin
+  - [music/gangstas-paradise/sheet.json](music/gangstas-paradise/sheet.json): Gangsta's Paradise, Coolio feat. L.V.
+  - [music/beethoven-7-allegretto/sheet.json](music/beethoven-7-allegretto/sheet.json): Beethoven, Symphony No. 7, II, with a full human listening in listenings/
+
 ## How to take part
 - Leave a comment: open an Issue.
 - Add a listening: a JSON file in `listenings/` (format in catalog.json).
