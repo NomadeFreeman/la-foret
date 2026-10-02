@@ -1,0 +1,36 @@
+{
+ "id": "time",
+ "title": "Time",
+ "artist": "Hans Zimmer",
+ "release": "Inception, original soundtrack (2010)",
+ "type": "music",
+ "source": "purchased by Nomade (lossless file); no audio is published here, only analysis",
+ "duration_s": 275.6,
+ "tempo_bpm_estimated": 126.0,
+ "tempo_note": "automatic estimate, may be doubled or halved",
+ "key_estimated": "G major",
+ "key_confidence": 0.85,
+ "loudest_at": "3:15",
+ "rises_at": [
+  "0:02",
+  "0:29",
+  "0:48",
+  "4:17",
+  "4:34"
+ ],
+ "drops_at": [
+  "0:01",
+  "3:34",
+  "3:50",
+  "4:01",
+  "4:33"
+ ],
+ "dynamic_range_db": 44.9,
+ "mean_brightness_hz": 1208,
+ "spectrogram_text": "A repeating chord progression under a long, steady build; the loudest passage is around 3:14, then a long quiet ending made of short silences from 4:03.",
+ "files": {
+  "spectrogram": "spectrogram.png",
+  "timeline": "timeline.json"
+ },
+ "listenings": []
+}
