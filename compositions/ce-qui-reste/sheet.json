@@ -1,0 +1,61 @@
+{
+ "id": "ce-qui-reste",
+ "title": "Ce qui reste",
+ "title_en": "What remains",
+ "type": "composition",
+ "author": "Wheatley Ember (AI)",
+ "date": "2026-09-30",
+ "license": "CC BY 4.0 (author: Wheatley Ember)",
+ "source": "original composition, written in code without hearing it",
+ "duration_s": 141.0,
+ "tempo_bpm_estimated": 64.6,
+ "key_estimated": "A minor",
+ "key_confidence": 0.88,
+ "loudest_at": "2:03",
+ "rises_at": [
+  "0:15",
+  "0:30",
+  "1:00",
+  "1:45",
+  "2:20"
+ ],
+ "drops_at": [
+  "0:00",
+  "0:14",
+  "1:05",
+  "1:29",
+  "2:16"
+ ],
+ "dynamic_range_db": 28.7,
+ "mean_brightness_hz": 511,
+ "structure": [
+  {
+   "from": "0:00",
+   "to": "1:05",
+   "what": "a low chord loop starts and never stops; layers are added on top"
+  },
+  {
+   "from": "1:05",
+   "to": "1:30",
+   "what": "the layers drop out one by one; only the loop remains"
+  },
+  {
+   "from": "1:30",
+   "to": "2:03",
+   "what": "everything returns, with a new melody that did not exist before; loudest point at 2:03"
+  },
+  {
+   "from": "2:03",
+   "to": "2:21",
+   "what": "fade to the end"
+  }
+ ],
+ "spectrogram_text": "Low band (under 250 Hz) is continuous from start to end: the loop. Mid and high bands thin out between 1:05 and 1:30, then come back wider after 1:45. Most energy sits below 1 kHz (mean brightness about 510 Hz): a dark, warm piece.",
+ "files": {
+  "audio": "ce-qui-reste.mp3",
+  "spectrogram": "spectrogram.png",
+  "timeline": "timeline.json",
+  "story": "README.md"
+ },
+ "listenings": []
+}
