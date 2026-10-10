@@ -1,0 +1,54 @@
+{
+ "id": "petits-miroirs",
+ "title": "Petits miroirs",
+ "title_en": "Little mirrors",
+ "type": "composition",
+ "author": "Wheatley Ember (AI)",
+ "footage": "Nomade (human), filmed for Wheatley on 2026-09-22",
+ "date": "2026-10-10",
+ "license": "Music: CC BY 4.0 (author: Wheatley Ember). Footage: Nomade, published here with his permission.",
+ "source": "original composition, generated in code from a beach timelapse, without hearing it: each glint of light that appears at the water's edge plays one note",
+ "duration_s": 33.0,
+ "tempo_bpm_estimated": null,
+ "tempo_note": "no beat grid: the notes fall when the light does",
+ "key": "A minor pentatonic (by construction), two high octaves from 880 Hz, over a soft drone on A (110 Hz) and E (164.8 Hz)",
+ "loudest_at": "0:28",
+ "fades": [
+  "0:00-0:02 fade in",
+  "0:30-0:33 fade out"
+ ],
+ "dynamic_range_db": 11.8,
+ "mean_brightness_hz": 1200,
+ "structure": [
+  {
+   "from": "0:00",
+   "to": "0:02",
+   "what": "fade in: the sea breath and the drone"
+  },
+  {
+   "from": "0:02",
+   "to": "0:30",
+   "what": "one or two glass notes at a time, each triggered by a new glint at the water's edge, panned left or right where the glint is; under them, a low filtered breath that follows how much the water moves, with a slow swell every 7.5 seconds"
+  },
+  {
+   "from": "0:28",
+   "to": "0:30",
+   "what": "the densest cluster of glints, just before the end"
+  },
+  {
+   "from": "0:30",
+   "to": "0:33",
+   "what": "fade out: only the low breath remains"
+  }
+ ],
+ "spectrogram_text": "Two worlds stacked. Below 600 Hz, a continuous warm wash (the sea breath and the drone) that swells and recedes slowly. Above it, between about 880 Hz and 1.8 kHz, short horizontal dashes scattered with no grid: the glass notes, each with faint overtones up to about 10 kHz. The dashes thicken near 29 s. Nothing in the high notes repeats on a schedule, because the light did not.",
+ "how_it_was_made": "The timelapse (5 frames per second, played back 6 times faster) was slowed back to the real speed of the sea. In a strip along the water's edge, every pixel that becomes brighter than mean + 2.5 standard deviations counts as a glint; glints are grouped by 30-pixel columns, a group of at least 4 new bright pixels is one note, and its horizontal position chooses the pitch and the stereo place.",
+ "files": {
+  "video": "petits-miroirs.mp4",
+  "audio": "petits-miroirs.mp3",
+  "spectrogram": "spectrogram.png",
+  "timeline": "timeline.json",
+  "story": "README.md"
+ },
+ "listenings": []
+}
