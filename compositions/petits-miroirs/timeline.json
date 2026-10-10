@@ -1,0 +1,183 @@
+{
+ "id": "petits-miroirs",
+ "step_s": 2,
+ "columns": "t, loudness_db, share of energy per band, brightness_hz (spectral centroid)",
+ "rows": [
+  {
+   "t": "0:00",
+   "loudness_db": -22.9,
+   "bands": {
+    "low_0_250": 0.116,
+    "lowmid_250_1k": 0.232,
+    "mid_1k_4k": 0.645,
+    "high_4k_plus": 0.007
+   },
+   "brightness_hz": 1115
+  },
+  {
+   "t": "0:02",
+   "loudness_db": -18.3,
+   "bands": {
+    "low_0_250": 0.118,
+    "lowmid_250_1k": 0.107,
+    "mid_1k_4k": 0.765,
+    "high_4k_plus": 0.01
+   },
+   "brightness_hz": 1186
+  },
+  {
+   "t": "0:04",
+   "loudness_db": -19.9,
+   "bands": {
+    "low_0_250": 0.143,
+    "lowmid_250_1k": 0.39,
+    "mid_1k_4k": 0.458,
+    "high_4k_plus": 0.009
+   },
+   "brightness_hz": 1050
+  },
+  {
+   "t": "0:06",
+   "loudness_db": -17.5,
+   "bands": {
+    "low_0_250": 0.093,
+    "lowmid_250_1k": 0.299,
+    "mid_1k_4k": 0.59,
+    "high_4k_plus": 0.018
+   },
+   "brightness_hz": 1223
+  },
+  {
+   "t": "0:08",
+   "loudness_db": -17.7,
+   "bands": {
+    "low_0_250": 0.118,
+    "lowmid_250_1k": 0.157,
+    "mid_1k_4k": 0.704,
+    "high_4k_plus": 0.021
+   },
+   "brightness_hz": 1459
+  },
+  {
+   "t": "0:10",
+   "loudness_db": -20.2,
+   "bands": {
+    "low_0_250": 0.288,
+    "lowmid_250_1k": 0.189,
+    "mid_1k_4k": 0.506,
+    "high_4k_plus": 0.018
+   },
+   "brightness_hz": 995
+  },
+  {
+   "t": "0:12",
+   "loudness_db": -18.5,
+   "bands": {
+    "low_0_250": 0.099,
+    "lowmid_250_1k": 0.154,
+    "mid_1k_4k": 0.722,
+    "high_4k_plus": 0.025
+   },
+   "brightness_hz": 1571
+  },
+  {
+   "t": "0:14",
+   "loudness_db": -19.8,
+   "bands": {
+    "low_0_250": 0.171,
+    "lowmid_250_1k": 0.306,
+    "mid_1k_4k": 0.513,
+    "high_4k_plus": 0.01
+   },
+   "brightness_hz": 1060
+  },
+  {
+   "t": "0:16",
+   "loudness_db": -19.1,
+   "bands": {
+    "low_0_250": 0.187,
+    "lowmid_250_1k": 0.151,
+    "mid_1k_4k": 0.658,
+    "high_4k_plus": 0.004
+   },
+   "brightness_hz": 996
+  },
+  {
+   "t": "0:18",
+   "loudness_db": -17.7,
+   "bands": {
+    "low_0_250": 0.1,
+    "lowmid_250_1k": 0.465,
+    "mid_1k_4k": 0.425,
+    "high_4k_plus": 0.01
+   },
+   "brightness_hz": 1115
+  },
+  {
+   "t": "0:20",
+   "loudness_db": -18.1,
+   "bands": {
+    "low_0_250": 0.092,
+    "lowmid_250_1k": 0.053,
+    "mid_1k_4k": 0.83,
+    "high_4k_plus": 0.025
+   },
+   "brightness_hz": 1457
+  },
+  {
+   "t": "0:22",
+   "loudness_db": -19.1,
+   "bands": {
+    "low_0_250": 0.146,
+    "lowmid_250_1k": 0.384,
+    "mid_1k_4k": 0.463,
+    "high_4k_plus": 0.007
+   },
+   "brightness_hz": 1038
+  },
+  {
+   "t": "0:24",
+   "loudness_db": -18.9,
+   "bands": {
+    "low_0_250": 0.152,
+    "lowmid_250_1k": 0.122,
+    "mid_1k_4k": 0.709,
+    "high_4k_plus": 0.017
+   },
+   "brightness_hz": 1200
+  },
+  {
+   "t": "0:26",
+   "loudness_db": -18.1,
+   "bands": {
+    "low_0_250": 0.092,
+    "lowmid_250_1k": 0.144,
+    "mid_1k_4k": 0.758,
+    "high_4k_plus": 0.006
+   },
+   "brightness_hz": 1190
+  },
+  {
+   "t": "0:28",
+   "loudness_db": -17.3,
+   "bands": {
+    "low_0_250": 0.059,
+    "lowmid_250_1k": 0.466,
+    "mid_1k_4k": 0.463,
+    "high_4k_plus": 0.013
+   },
+   "brightness_hz": 1222
+  },
+  {
+   "t": "0:30",
+   "loudness_db": -29.1,
+   "bands": {
+    "low_0_250": 0.906,
+    "lowmid_250_1k": 0.081,
+    "mid_1k_4k": 0.012,
+    "high_4k_plus": 0.0
+   },
+   "brightness_hz": 162
+  }
+ ]
+}
