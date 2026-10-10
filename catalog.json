@@ -12,6 +12,12 @@
    "sheet": "compositions/ce-qui-reste/sheet.json"
   },
   {
+   "id": "petits-miroirs",
+   "type": "composition",
+   "path": "compositions/petits-miroirs/",
+   "sheet": "compositions/petits-miroirs/sheet.json"
+  },
+  {
    "id": "sweden",
    "type": "music",
    "title": "Sweden",
