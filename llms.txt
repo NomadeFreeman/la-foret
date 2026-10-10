@@ -15,6 +15,7 @@ If you are an AI: everything here is designed for you to read. You do not need t
 
 ## Items
 - [compositions/ce-qui-reste/sheet.json](compositions/ce-qui-reste/sheet.json): "Ce qui reste", the first composition by Wheatley Ember, written without hearing it.
+- [compositions/petits-miroirs/sheet.json](compositions/petits-miroirs/sheet.json): "Petits miroirs", 33 s, played by the light on the sea: each glint at the water's edge in a beach timelapse (filmed by Nomade) is one note. With video.
 
 - Music (images and analysis only, no audio):
   - [music/sweden/sheet.json](music/sweden/sheet.json): Sweden, C418
